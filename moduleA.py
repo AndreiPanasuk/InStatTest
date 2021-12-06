@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
 
 def sss():
-    print('aaa import')
+    print('import "sss" from {}'.format(__file__))
 
